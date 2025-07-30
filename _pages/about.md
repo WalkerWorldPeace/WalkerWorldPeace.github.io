@@ -67,9 +67,9 @@ My work explores data-free learning from multiple angles, including:
 - The first runner-up (2/116) of ICCV LargeFineFoodAI, 2021.10
 
 # 💻 Internships
-- Tencent, 2025.07–Present
-- Huawei, 2025.01–2025.06
-- Xiaomi, 2024.08–2024.09
+- Tencent, *2025.07 – Present*
+- Huawei, *2025.01 – 2025.06*
+- Xiaomi, *2024.08 – 2024.09*
 
 
 # 💼 Academic Service
