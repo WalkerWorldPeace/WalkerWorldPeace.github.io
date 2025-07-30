@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a second-year PhD student at Tsinghua University, advised by Prof. Chun Yuan. My research focuses on efficient machine learning, particularly data-free learning. Training high-performing models typically demands extensive data and computational resources. The open-source trend has made numerous pretrained models readily available in the community. Data-free learning (i.e., learning from models) presents a promising alternative by addressing challenges related to data accessibility and privacy, while also circumventing the computational burden of pretraining. Given the limited computational resources commonly available in academia (such as 4090 or V100 GPUs), this direction is practical especially for students.
+I am a third-year PhD student at Tsinghua University, advised by Prof. [Chun Yuan](https://thu-cvml.github.io/Overview/Professor) and [Li Shen](https://sites.google.com/site/mathshenli/home). My research focuses on efficient machine learning, particularly data-free learning. Training high-performing models typically demands extensive data and computational resources. The open-source trend has made numerous pretrained models readily available in the community. Data-free learning (i.e., learning from models) presents a promising alternative by addressing challenges related to data accessibility and privacy, while also circumventing the computational burden of pretraining. Given the limited computational resources commonly available in academia (such as 4090 or V100 GPUs), this direction is practical especially for students.
 
-My preferred research paradigm involves observing empirical phenomena, forming explanations, constructing theoretical frameworks, and ultimately deriving effective methods. As LLM and MLLM continue to gain traction, **I am committed to scaling models as much as possible within my available resources**, as exemplified by my line of work. I welcome opportunities for collaboration and am open to internship offers.
+My preferred research paradigm involves observing empirical phenomena, forming explanations, constructing theoretical frameworks, and ultimately deriving effective methods. As LLM and MLLM continue to gain traction, **I am committed to scaling models as much as possible within my available resources**, as exemplified by my line of work. I welcome opportunities for collaboration.
 
 
 # 📝 Publications
@@ -67,8 +67,9 @@ My work explores data-free learning from multiple angles, including:
 - The first runner-up (2/116) of ICCV LargeFineFoodAI, 2021.10
 
 # 💻 Internships
-- Huawei Noah’s Ark Lab, 2025.01–2025.06
-- Xiaomi Internet Department, 2024.08–2024.09
+- Tencent, 2025.07–Present
+- Huawei, 2025.01–2025.06
+- Xiaomi, 2024.08–2024.09
 
 
 # 💼 Academic Service
