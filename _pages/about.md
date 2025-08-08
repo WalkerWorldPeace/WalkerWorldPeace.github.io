@@ -33,26 +33,35 @@ My work explores data-free learning from multiple angles, including:
 ## Model merging directly in parameter space:
 - Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging. Preprint  
   **Yongxian Wei**, Runxi Cheng, Weike Jin, Enneng Yang, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao
+  [[Paper]](https://arxiv.org/pdf/2505.19892) [[Code]](https://github.com/WalkerWorldPeace/MLLMerging)
 - Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent. ICML 2025  
   **Yongxian Wei**, Anke Tang, Li Shen, Zixuan Hu, Chun Yuan, Xiaochun Cao
+  [[Paper]](https://arxiv.org/pdf/2501.01230) [[Code]](https://github.com/WalkerWorldPeace/DOGE)
 - Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors. ICML 2025  
   Runxi Cheng\*, Feng Xiong\*, **Yongxian Wei**, Wanyun Zhu, Chun Yuan
+  [[Paper]](https://arxiv.org/pdf/2503.08099) [[Code]](https://github.com/nathanielyvo/WUDI-Merging)
 
 ## Model inversion based on discriminative models:
 - Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation. ICLR 2025 (**Oral**)  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan, Dacheng Tao
+  [[Paper]](https://openreview.net/pdf?id=1aF2D2CPHi) [[Code]](https://github.com/WalkerWorldPeace/CVLM)
 - Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs. CVPR 2025  
   Zixuan Hu, **Yongxian Wei**, Li Shen, Chun Yuan, Dacheng Tao
+  [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_LoRA_Recycle_Unlocking_Tuning-Free_Few-Shot_Adaptability_in_Visual_Foundation_Models_CVPR_2025_paper.pdf) [[Code]](https://github.com/Egg-Hu/LoRA-Recycle)
 - Task Groupings Regularization: Data-Free Meta-Learning with Heterogeneous Pre-trained Models. ICML 2024  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan, Dacheng Tao
+  [[Paper]](https://arxiv.org/pdf/2405.16560) [[Code]](https://github.com/WalkerWorldPeace/TGR)
 - Sparse Model Inversion: Efficient Inversion of Vision Transformers for Data-Free Applications. ICML 2024  
   Zixuan Hu, **Yongxian Wei**, Li Shen, Zhenyi Wang, Chun Yuan, Dacheng Tao
+  [[Paper]](https://openreview.net/pdf?id=T0lFfO8HaK) [[Code]](https://github.com/Egg-Hu/SMI)
 - FREE: Faster and Better Data-Free Meta-Learning. CVPR 2024  
   **Yongxian Wei**, Zixuan Hu, Zhenyi Wang, Li Shen, Chun Yuan, Dacheng Tao
+  [[Paper]](https://arxiv.org/pdf/2405.00984) [[Code]](https://github.com/WalkerWorldPeace/FREE)
 
 ## Synthetic data based on generative models:
 - Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan
+  [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
 
 
 
@@ -73,5 +82,5 @@ My work explores data-free learning from multiple angles, including:
 
 
 # 💼 Academic Service
-Reviewer for ICML/ICLR/NeurIPS/ICCV
+Reviewer for ICML/ICLR/NeurIPS/ICCV/AAAI
 
