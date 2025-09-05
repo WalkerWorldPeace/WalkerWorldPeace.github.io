@@ -45,6 +45,9 @@ My work explores data-free learning from multiple angles, including:
 - Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation. ICLR 2025 (**Oral**)  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan, Dacheng Tao  
   [[Paper]](https://openreview.net/pdf?id=1aF2D2CPHi) [[Code]](https://github.com/WalkerWorldPeace/CVLM)
+- Task-Distributionally Robust Data-Free Meta-Learning. IEEE TPAMI  
+  Zixuan Hu, Yongxian Wei, Li Shen, Zhenyi Wang, Baoyuan Wu, Chun Yuan, Dacheng Tao 
+  [[Paper]](https://arxiv.org/abs/2311.14756) [[Code]](https://github.com/Egg-Hu/Trustworthy-DFML)
 - Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs. CVPR 2025  
   Zixuan Hu, **Yongxian Wei**, Li Shen, Chun Yuan, Dacheng Tao  
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_LoRA_Recycle_Unlocking_Tuning-Free_Few-Shot_Adaptability_in_Visual_Foundation_Models_CVPR_2025_paper.pdf) [[Code]](https://github.com/Egg-Hu/LoRA-Recycle)
