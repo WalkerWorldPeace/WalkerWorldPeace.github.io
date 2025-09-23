@@ -31,7 +31,7 @@ My work explores data-free learning from multiple angles, including:
 - Synthetic data based on generative models
 
 ## Model merging directly in parameter space:
-- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging. Preprint  
+- OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging. Preprint  
   **Yongxian Wei**, Runxi Cheng, Weike Jin, Enneng Yang, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao  
   [[Paper]](https://arxiv.org/pdf/2505.19892) [[Code]](https://github.com/WalkerWorldPeace/MLLMerging)
 - Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent. ICML 2025  
@@ -47,7 +47,7 @@ My work explores data-free learning from multiple angles, including:
   [[Paper]](https://openreview.net/pdf?id=1aF2D2CPHi) [[Code]](https://github.com/WalkerWorldPeace/CVLM)
 - Task-Distributionally Robust Data-Free Meta-Learning. IEEE TPAMI  
   Zixuan Hu, **Yongxian Wei**, Li Shen, Zhenyi Wang, Baoyuan Wu, Chun Yuan, Dacheng Tao  
-  [[Paper]](https://arxiv.org/abs/2311.14756) [[Code]](https://github.com/Egg-Hu/Trustworthy-DFML)
+  [[Paper]](https://ieeexplore.ieee.org/document/11165138) [[Code]](https://github.com/Egg-Hu/Trustworthy-DFML)
 - Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs. CVPR 2025  
   Zixuan Hu, **Yongxian Wei**, Li Shen, Chun Yuan, Dacheng Tao  
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_LoRA_Recycle_Unlocking_Tuning-Free_Few-Shot_Adaptability_in_Visual_Foundation_Models_CVPR_2025_paper.pdf) [[Code]](https://github.com/Egg-Hu/LoRA-Recycle)
@@ -65,6 +65,8 @@ My work explores data-free learning from multiple angles, including:
 - Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
   [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
+- Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
+  Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao
 
 
 
