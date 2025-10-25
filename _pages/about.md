@@ -70,7 +70,7 @@ My work explores data-free learning from multiple angles, including:
   [[Paper]]() [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
 
 # 🔥 Honors
-- National Scholarship for Graduate Students (Second award), 2025.10
+- National Scholarship for Graduate Students (for the second time), 2025.10
 - National Scholarship for Graduate Students (at my first year), 2024.10
 - Undergraduate President's Medal (Top 10 university-wide), 2022.10
 - National Scholarship for Undergraduate Students, 2021.10
