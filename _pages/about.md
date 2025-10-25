@@ -67,12 +67,12 @@ My work explores data-free learning from multiple angles, including:
   [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
 - Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
   Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao  
- [[Paper]]() [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
+  [[Paper]]() [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
 
 # 🔥 Honors
-- National Scholarship for Graduate Students (Second Award), 2024.10
+- National Scholarship for Graduate Students (Second award), 2025.10
 - National Scholarship for Graduate Students (at my first year), 2024.10
-- Undergraduate President's Medal (Top 10 University-Wide), 2022.10
+- Undergraduate President's Medal (Top 10 university-wide), 2022.10
 - National Scholarship for Undergraduate Students, 2021.10
 - The First Runner-Up (2/116) of ICCV LargeFineFoodAI, 2021.10
 
