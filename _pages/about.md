@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a third-year PhD student at Tsinghua University, advised by Prof. [Chun Yuan](https://thu-cvml.github.io/Overview/Professor) and [Li Shen](https://sites.google.com/site/mathshenli/home). My research focuses on efficient machine learning, particularly data-free learning. Training high-performing models typically demands extensive data and computational resources. The open-source trend has made numerous pretrained models readily available in the community. Data-free learning (i.e., learning from models) presents a promising alternative by addressing challenges related to data accessibility and privacy, while also circumventing the computational burden of pretraining. Given the limited computational resources commonly available in academia (such as 4090 or V100 GPUs), this direction is practical especially for students.
+I am a third-year PhD student at Tsinghua University, advised by Prof. [Chun Yuan](https://thu-cvml.github.io/Overview/Professor) and [Li Shen](https://sites.google.com/site/mathshenli/home). My research focuses on efficient machine learning, particularly data-free learning. Training high-performing models typically demands extensive data and computational resources. The open-source trend has made numerous pretrained models readily available in the community. Data-free learning (i.e., learning from models) presents a promising alternative by addressing challenges related to data accessibility and privacy, while also circumventing the computational burden of pretraining. Given the typically limited computational resources, this direction is especially practical for academia.
 
 My preferred research paradigm involves observing empirical phenomena, forming explanations, constructing theoretical frameworks, and ultimately deriving effective methods. As LLM and MLLM continue to gain traction, **I am committed to scaling models as much as possible within my available resources**, as exemplified by my line of work. I welcome opportunities for collaboration.
 
@@ -66,19 +66,19 @@ My work explores data-free learning from multiple angles, including:
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
   [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
 - Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
-  Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao
+  Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao  
+ [[Paper]]() [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
 
-
+# 🔥 Honors
+- National Scholarship for Graduate Students (Second Award), 2024.10
+- National Scholarship for Graduate Students (at my first year), 2024.10
+- Undergraduate President's Medal (Top 10 University-Wide), 2022.10
+- National Scholarship for Undergraduate Students, 2021.10
+- The First Runner-Up (2/116) of ICCV LargeFineFoodAI, 2021.10
 
 # 📖 Education
 - PhD student, Tsinghua University, *2023 – Present*
 - Undergrad, Nanjing University of Science and Technology, *2019 – 2023*
-
-# 🔥 Honors
-- National Scholarship for Graduate Students at my first master year, 2024.10
-- President's Medal (Top 10 university-wide), Nanjing University of Science and Technology, 2022.10
-- National Scholarship for Undergraduate Students, 2021.10
-- The first runner-up (2/116) of ICCV LargeFineFoodAI, 2021.10
 
 # 💻 Internships
 - Tencent, *2025.07 – Present*
@@ -87,5 +87,5 @@ My work explores data-free learning from multiple angles, including:
 
 
 # 💼 Academic Service
-Reviewer for ICML/ICLR/NeurIPS/ICCV/AAAI
+Reviewer for ICML/ICLR/NeurIPS/CVPR/ICCV/AAAI
 
