@@ -25,7 +25,7 @@ My preferred research paradigm involves observing empirical phenomena, forming e
 
 # 📝 Publications
 
-My work explores data-free learning from multiple angles, including:
+My work explores data-free learning from three angles, including:
 - Model merging directly in parameter space
 - Model inversion based on discriminative models
 - Synthetic data based on generative models
@@ -67,7 +67,7 @@ My work explores data-free learning from multiple angles, including:
   [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
 - Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
   Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao  
-  [[Paper]]() [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
+  [[Paper]](https://openreview.net/pdf?id=sm2e1SnMK4) [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
 
 # 🔥 Honors
 - National Scholarship for Graduate Students (for the second time), 2025.10
