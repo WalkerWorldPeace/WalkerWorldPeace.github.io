@@ -23,7 +23,7 @@ I am a third-year PhD student at Tsinghua University, advised by Prof. [Chun Yua
 My preferred research paradigm involves observing empirical phenomena, forming explanations, constructing theoretical frameworks, and ultimately deriving effective methods. As LLM and MLLM continue to gain traction, **I am committed to scaling models as much as possible within my available resources**, as exemplified by my line of work. I welcome opportunities for collaboration.
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 My work explores data-free learning from three angles, including:
 - Model merging directly in parameter space
@@ -62,6 +62,9 @@ My work explores data-free learning from three angles, including:
   [[Paper]](https://arxiv.org/pdf/2405.00984) [[Code]](https://github.com/WalkerWorldPeace/FREE)
 
 ## Synthetic data based on generative models:
+- Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models. Preprint  
+  **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Gang Liu, Jiahong Yan, Chun Yuan, Dian Li  
+  [[Paper]](https://arxiv.org/pdf/2511.09907) [[Code]](https://github.com/WalkerWorldPeace/Reasoning-Synthesis)
 - Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
   [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
