@@ -31,7 +31,7 @@ My work explores data-free learning from three angles, including:
 - Synthetic data based on generative models
 
 ## Model merging directly in parameter space:
-- OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging. Preprint  
+- OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging. ICLR 2026  
   **Yongxian Wei**, Runxi Cheng, Weike Jin, Enneng Yang, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao  
   [[Paper]](https://arxiv.org/pdf/2505.19892) [[Code]](https://github.com/WalkerWorldPeace/MLLMerging)
 - Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent. ICML 2025  
@@ -41,6 +41,20 @@ My work explores data-free learning from three angles, including:
   Runxi Cheng\*, Feng Xiong\*, **Yongxian Wei**, Wanyun Zhu, Chun Yuan  
   [[Paper]](https://arxiv.org/pdf/2503.08099) [[Code]](https://github.com/nathanielyvo/WUDI-Merging)
 
+## Synthetic data based on generative models:
+- Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models. Preprint  
+  **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Gang Liu, Jiahong Yan, Chun Yuan, Dian Li  
+  [[Paper]](https://arxiv.org/pdf/2511.09907) [[Code]](https://github.com/WalkerWorldPeace/Reasoning-Synthesis)
+- Synthetic Data Beyond Generative Models: A Comprehensive Survey of How, Why, and Where. Preprint  
+  Zixuan Hu\*, **Yongxian Wei\***, Guozheng Ma, Jiahe Wang, Sinan Du, Chun Yuan, Li Shen, Dacheng Tao  
+  [[Paper]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/303351/preprint_pdf/c121c7d3f8eef06a9d84456dc3dad834.pdf) [[Code]](https://github.com/Egg-Hu/Awesome-Synthetic-Data-Generation)
+- Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
+  **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
+  [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
+- Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
+  Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao  
+  [[Paper]](https://openreview.net/pdf?id=sm2e1SnMK4) [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
+  
 ## Model inversion based on discriminative models:
 - Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation. ICLR 2025 (**Oral**)  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan, Dacheng Tao  
@@ -61,17 +75,6 @@ My work explores data-free learning from three angles, including:
   **Yongxian Wei**, Zixuan Hu, Zhenyi Wang, Li Shen, Chun Yuan, Dacheng Tao  
   [[Paper]](https://arxiv.org/pdf/2405.00984) [[Code]](https://github.com/WalkerWorldPeace/FREE)
 
-## Synthetic data based on generative models:
-- Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models. Preprint  
-  **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Gang Liu, Jiahong Yan, Chun Yuan, Dian Li  
-  [[Paper]](https://arxiv.org/pdf/2511.09907) [[Code]](https://github.com/WalkerWorldPeace/Reasoning-Synthesis)
-- Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
-  **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
-  [[Paper]](https://ieeexplore.ieee.org/document/10587268) [[Code]](https://github.com/WalkerWorldPeace/MLWDUDM)
-- Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler. NeurIPS 2025 (**Spotlight**)  
-  Zixuan Hu, Li Shen, Zhenyi Wang, **Yongxian Wei**, Dacheng Tao  
-  [[Paper]](https://openreview.net/pdf?id=sm2e1SnMK4) [[Code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
-
 # 🔥 Honors
 - National Scholarship for Graduate Students (for the second time), 2025.10
 - National Scholarship for Graduate Students (at my first year), 2024.10
@@ -84,11 +87,11 @@ My work explores data-free learning from three angles, including:
 - Undergrad, Nanjing University of Science and Technology, *2019 – 2023*
 
 # 💻 Internships
-- Tencent, *2025.07 – Present*
+- Tencent, *2025.07 – 2026.01*
 - Huawei, *2025.01 – 2025.06*
 - Xiaomi, *2024.08 – 2024.09*
 
 
 # 💼 Academic Service
-Reviewer for ICML/ICLR/NeurIPS/CVPR/ICCV/AAAI
+Reviewer for ICML/ICLR/NeurIPS/CVPR/ICCV/ECCV/AAAI
 
