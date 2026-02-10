@@ -27,8 +27,8 @@ My preferred research paradigm involves observing empirical phenomena, forming e
 
 My work explores data-free learning from three angles, including:
 - Model merging directly in parameter space
-- Model inversion based on discriminative models
 - Synthetic data based on generative models
+- Model inversion based on discriminative models
 
 ## Model merging directly in parameter space:
 - OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging. ICLR 2026  
@@ -46,7 +46,7 @@ My work explores data-free learning from three angles, including:
   **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Gang Liu, Jiahong Yan, Chun Yuan, Dian Li  
   [[Paper]](https://arxiv.org/pdf/2511.09907) [[Code]](https://github.com/WalkerWorldPeace/Reasoning-Synthesis)
 - Synthetic Data Beyond Generative Models: A Comprehensive Survey of How, Why, and Where. Preprint  
-  Zixuan Hu\*, **Yongxian Wei\***, Guozheng Ma, Jiahe Wang, Sinan Du, Chun Yuan, Li Shen, Dacheng Tao  
+  Zixuan Hu\*, **Yongxian Wei\***, Guozheng Ma, Jiahe Wang, Sinan Du, Runxi Cheng, Qianpu Sun, Haotian Luo, Chun Yuan, Li Shen, Dacheng Tao  
   [[Paper]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/303351/preprint_pdf/c121c7d3f8eef06a9d84456dc3dad834.pdf) [[Code]](https://github.com/Egg-Hu/Awesome-Synthetic-Data-Generation)
 - Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
@@ -86,10 +86,10 @@ My work explores data-free learning from three angles, including:
 - PhD student, Tsinghua University, *2023 – Present*
 - Undergrad, Nanjing University of Science and Technology, *2019 – 2023*
 
-# 💻 Internships
+<!-- # 💻 Internships
 - Tencent, *2025.07 – 2026.01*
 - Huawei, *2025.01 – 2025.06*
-- Xiaomi, *2024.08 – 2024.09*
+- Xiaomi, *2024.08 – 2024.09* -->
 
 
 # 💼 Academic Service
