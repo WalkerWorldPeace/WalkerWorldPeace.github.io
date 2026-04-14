@@ -93,5 +93,6 @@ My work explores data-free learning from three angles, including:
 
 
 # 💼 Academic Service
-Reviewer for ICML/ICLR/NeurIPS/CVPR/ICCV/ECCV/AAAI
+- Reviewer (Conferences): ICML / ICLR / NeurIPS / CVPR / ICCV / ECCV / AAAI
+- Reviewer (Journals): TPAMI / TIP / TKDE
 
