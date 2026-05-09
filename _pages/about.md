@@ -42,11 +42,11 @@ My work explores data-free learning from three angles, including:
   [[Paper]](https://arxiv.org/pdf/2503.08099) [[Code]](https://github.com/nathanielyvo/WUDI-Merging)
 
 ## Synthetic data based on generative models:
-- Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models. Preprint  
-  **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Gang Liu, Jiahong Yan, Chun Yuan, Dian Li  
+- Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis. Preprint  
+  **Yongxian Wei**, Yilin Zhao, Li Shen, Xinrui Chen, Runxi Cheng, Sinan Du, Hao Yu, Chun Yuan, Dian Li  
   [[Paper]](https://arxiv.org/pdf/2511.09907) [[Code]](https://github.com/WalkerWorldPeace/Reasoning-Synthesis)
 - Synthetic Data Beyond Generative Models: A Comprehensive Survey of How, Why, and Where. Preprint  
-  Zixuan Hu\*, **Yongxian Wei\***, Guozheng Ma, Jiahe Wang, Sinan Du, Runxi Cheng, Qianpu Sun, Haotian Luo, Chun Yuan, Li Shen, Dacheng Tao  
+  Zixuan Hu\*, **Yongxian Wei\***, Guozheng Ma, Jiahe Wang, Sinan Du, Runxi Cheng, Chun Yuan, Li Shen, Dacheng Tao  
   [[Paper]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/303351/preprint_pdf/c121c7d3f8eef06a9d84456dc3dad834.pdf) [[Code]](https://github.com/Egg-Hu/Awesome-Synthetic-Data-Generation)
 - Meta-Learning without Data via Unconditional Diffusion Models. IEEE TCSVT  
   **Yongxian Wei**, Zixuan Hu, Li Shen, Zhenyi Wang, Chun Yuan  
