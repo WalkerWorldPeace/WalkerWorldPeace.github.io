@@ -11,9 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a fourth-year PhD student at Tsinghua University, advised by Prof. [Chun Yuan](https://thu-cvml.github.io/Overview/Professor) and [Li Shen](https://sites.google.com/site/mathshenli/home). My research centers on **data-efficient model reuse** (i.e., **learning from models**): how to transfer, compose, and extend the knowledge encoded in pretrained models while reducing reliance on task-specific data and costly training from scratch. I investigate this question through **model merging, synthetic data generation, and model inversion**, with an emphasis on understanding when and how existing models can support new tasks and capabilities.
+I am a fourth-year PhD student at Tsinghua University, advised by Prof. [Chun Yuan](https://thu-cvml.github.io/Overview/Professor) and [Li Shen](https://sites.google.com/site/mathshenli/home). My research centers on **data-efficient model reuse** (i.e., **learning from models**): how to transfer, compose, and extend the knowledge encoded in pretrained models while reducing reliance on task-specific data and costly training from scratch.
 
-My approach combines empirical investigation with theoretical analysis: I identify recurring phenomena, formulate and test hypotheses, and develop principled methods informed by these insights. A central goal is to establish effective and scalable approaches to model reuse for large language models (LLMs) and multimodal large language models (MLLMs), with careful attention to data efficiency and computational cost.
+My approach combines empirical investigation with theoretical analysis: I identify recurring phenomena, formulate and test hypotheses, and develop principled methods informed by these insights. A central goal is to establish effective and scalable approaches to model reuse for vision models, large language models (LLMs), and multimodal large language models (MLLMs), with careful attention to data efficiency and computational cost.
 
 
 <span class='anchor' id='publications'></span>
