@@ -1,0 +1,116 @@
+[
+  {
+    "image": "spectral.png",
+    "source": "https://arxiv.org/pdf/2606.07289",
+    "page": 3,
+    "crop": [
+      48,
+      52,
+      565,
+      169
+    ]
+  },
+  {
+    "image": "optmerge.png",
+    "source": "https://arxiv.org/pdf/2505.19892",
+    "page": 1,
+    "crop": [
+      305,
+      522,
+      508,
+      661
+    ]
+  },
+  {
+    "image": "doge.png",
+    "source": "https://arxiv.org/pdf/2501.01230",
+    "note": "AI-generated research overview using the built-in image_gen tool, based on the paper methodology."
+  },
+  {
+    "image": "wudi.png",
+    "source": "https://arxiv.org/pdf/2503.08099",
+    "page": 2,
+    "crop": [
+      54,
+      59,
+      292,
+      181
+    ]
+  },
+  {
+    "image": "reasoning.png",
+    "source": "https://arxiv.org/pdf/2511.09907",
+    "page": 4,
+    "crop": [
+      106,
+      69,
+      507,
+      254
+    ]
+  },
+  {
+    "image": "cvlm.png",
+    "source": "https://proceedings.iclr.cc/paper_files/paper/2025/file/8c96b559340daa7bb29f56ccfbbc9c2f-Paper-Conference.pdf",
+    "page": 2,
+    "crop": [
+      107,
+      70,
+      506,
+      204
+    ]
+  },
+  {
+    "image": "tgr.png",
+    "source": "https://arxiv.org/pdf/2405.16560",
+    "page": 5,
+    "crop": [
+      54,
+      60,
+      545,
+      208
+    ]
+  },
+  {
+    "image": "free.png",
+    "source": "https://arxiv.org/pdf/2405.00984",
+    "page": 4,
+    "crop": [
+      48,
+      72,
+      549,
+      202
+    ]
+  },
+  {
+    "image": "trustworthy.png",
+    "source": "https://arxiv.org/pdf/2311.14756",
+    "page": 2,
+    "crop": [
+      48,
+      60,
+      565,
+      215
+    ]
+  },
+  {
+    "image": "memagent.png",
+    "source": "https://raw.githubusercontent.com/WalkerWorldPeace/MemAgent/main/assets/inference.png"
+  },
+  {
+    "image": "limix2.png",
+    "source": "https://raw.githubusercontent.com/limix-ldm-ai/LimiX/main/doc/figures/fig2_architecture.png"
+  },
+  {
+    "image": "lora-recycle.png",
+    "source": "https://raw.githubusercontent.com/Egg-Hu/LoRA-Recycle/main/fig/pipeline.jpg"
+  },
+  {
+    "image": "smi.png",
+    "source": "https://raw.githubusercontent.com/Egg-Hu/SMI/main/fig/pipeline.png"
+  },
+  {
+    "image": "mlwdudm.png",
+    "source": "https://doi.org/10.1109/TCSVT.2024.3424572",
+    "note": "AI-generated concept illustration using the built-in image_gen tool, based on the published abstract; not an original paper figure."
+  }
+]

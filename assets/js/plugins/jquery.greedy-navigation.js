@@ -1,72 +1,35 @@
-/*
-* Greedy Navigation
-*
-* http://codepen.io/lukejacksonn/pen/PwmwWV
-*
-*/
-
+/* Keep the navigation within its container, including after viewport changes. */
 var $nav = $('#site-nav');
 var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
-
 function updateNav() {
-
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
-
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
-    breaks.push($vlinks.width());
-
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
-
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
-
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
+  $hlinks.children().appendTo($vlinks);
+  $btn.addClass('hidden').removeClass('close').attr('aria-expanded', 'false');
+  $hlinks.addClass('hidden');
+  if ($vlinks.outerWidth() > $nav.width()) {
+    $btn.removeClass('hidden');
+    var available = $nav.width() - $btn.outerWidth() - 16;
+    while ($vlinks.outerWidth() > available && $vlinks.children().length > 1) {
+      $vlinks.children().last().prependTo($hlinks);
     }
   }
-
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
-  }
-
 }
-
-// Window listeners
-
-$(window).resize(function() {
-  updateNav();
-});
-
+$(window).on('resize', updateNav);
 $btn.on('click', function() {
-  $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
+  var open = $hlinks.hasClass('hidden');
+  $hlinks.toggleClass('hidden', !open);
+  $btn.toggleClass('close', open).attr('aria-expanded', String(open));
 });
-
+$hlinks.on('click', 'a', function() {
+  $hlinks.addClass('hidden');
+  $btn.removeClass('close').attr('aria-expanded', 'false');
+});
+$nav.on('keydown', function(event) {
+  if (event.key === 'Escape') {
+    $hlinks.addClass('hidden');
+    $btn.removeClass('close').attr('aria-expanded', 'false').trigger('focus');
+  }
+});
 updateNav();

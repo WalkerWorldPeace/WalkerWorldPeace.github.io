@@ -7,12 +7,15 @@
 
 # Site Settings
 title                    : "Yongxian Wei"
-description              : "[Tsinghua CVML Group](https://thu-cvml.github.io/)"
+description              : "Yongxian Wei is a PhD student at Tsinghua University researching data-efficient model reuse through model merging, synthetic data generation, and model inversion."
+affiliation              : "[Tsinghua CVML Group](https://thu-cvml.github.io/)"
+url                      : "https://walkerworldpeace.github.io"
+baseurl                  : ""
+social_image             : "/images/avatar.png"
 repository               : "WalkerWorldPeace/WalkerWorldPeace.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "kNMeyocAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "" # Optional GA4 measurement ID (G-...). Empty disables Analytics.
 
 # SEO Related
 google_site_verification :  "QNSJdv1sRKXWsogJfRiZLcSdawYqevuZvmJms1spVvM"
@@ -28,7 +31,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=kNMeyocAAAAJ"
   email            : "weiyx23@mails.tsinghua.edu.cn"
   researchgate     :
-  uri              : "http://WalkerWorldPeace.github.io"
+  uri              : "https://walkerworldpeace.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
